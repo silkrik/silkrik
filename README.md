@@ -57,4 +57,17 @@
   - :zap: Fun fact: I mass-produce side projects and mass-abandon them equally fast
   - :mailbox: Reach me at: **rik.li@silksoftware.com**
 
-  </div>
+ ---
+
+### Trophy
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/silkrik/silkrik/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/silkrik/silkrik/output/github-snake.svg" />
+    <img alt="github contribution snake animation"
+  src="https://raw.githubusercontent.com/silkrik/silkrik/output/github-snake-dark.svg" />
+  </picture>
+
+</div>
