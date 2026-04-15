@@ -13,7 +13,7 @@
 
   ---
 
-  ### Tech Stack
+  ## Tech Stack
 
   <table>
   <tr>
@@ -54,16 +54,19 @@
 
   ---
 
-  ### Currently
+  ## Currently
 
-  - :telescope: Working on full-stack projects with **React + NestJS**
-  - :seedling: Exploring **Cloud Native** & **DevOps** practices
-  - :zap: Fun fact: I mass-produce side projects and mass-abandon them equally fast
-  - :mailbox: Reach me at: **rik.li@silksoftware.com**
+  :telescope: Working on full-stack projects with **React + NestJS**
+
+  :seedling: Exploring **Cloud Native** & **DevOps** practices
+
+  :zap: Fun fact: I mass-produce side projects and mass-abandon them equally fast
+
+  :mailbox: Reach me at **rik.li@silksoftware.com**
 
  ---
 
-### Trophy
+## Trophy
 
   <picture>
     <source media="(prefers-color-scheme: dark)"
