@@ -7,7 +7,10 @@
   src="https://img.shields.io/badge/Main_GitHub-@linyana-181717?style=flat-square&logo=github" /></a>
   </p>
 
-  **Full-stack Developer** | Building scalable web applications
+ **Full-stack Developer** | Building scalable web applications
+
+  Simplifying complex backend workflows into clean, reusable components.
+  Passionate about productivity tools and sleek UI design.
 
   *Always believe that something wonderful is about to happen* :sparkles:
 
