@@ -3,8 +3,8 @@
   # Hey there, I'm Rik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
   <p>
-    <a href="https://github.com/silkrik"><img
-  src="https://img.shields.io/badge/Main_GitHub-@silkrik-181717?style=flat-square&logo=github" /></a>
+    <a href="https://github.com/linyana"><img
+  src="https://img.shields.io/badge/Main_GitHub-@linyana-181717?style=flat-square&logo=github" /></a>
   </p>
 
   **Full-stack Developer** | Building scalable web applications
@@ -55,6 +55,6 @@
   - :telescope: Working on full-stack projects with **React + NestJS**
   - :seedling: Exploring **Cloud Native** & **DevOps** practices
   - :zap: Fun fact: I mass-produce side projects and mass-abandon them equally fast
-  - :mailbox: Reach me at: **nxameliakarenl7J@accountant.com**
+  - :mailbox: Reach me at: **rik.li@silksoftware.com**
 
   </div>
