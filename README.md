@@ -45,6 +45,10 @@
     <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
     <br>Redis
   </td>
+   <td align="center" width="96">
+    <img src="https://elysiajs.com/assets/elysia.svg" width="48" height="48" alt="Elysia" />
+    <br>Elysia
+  </td>
   </tr>
   </table>
 
